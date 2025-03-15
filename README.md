@@ -101,9 +101,7 @@ Feel free to contribute by submitting issues, suggesting improvements, or creati
 ## License
 This repository is open-source under the MIT License. Happy coding! 🚀
 
-If you have any questions or comments about the projects in this repository, please feel free to contact me at:
-
-peterkathitu@gmail.com
+If you have any questions or comments about the projects in this repository, you can reach me via the email listed on my GitHub overview page.
 
 🌐 Socials :
 
